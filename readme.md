@@ -62,7 +62,12 @@
 ---
 
 ## 📂 Dataset
-- https://www.kaggle.com/datasets/noamsegal/affectnet-training-data  
+- Note: The original AffectNet dataset is not publicly available and the previously used link is no longer active.
+
+### Secondary Source (for reproducibility)
+- https://huggingface.co/datasets/Mauregato/affectnet_short  
+
+> This is a publicly available subset/version of AffectNet used to reproduce results. 
 
 ---
 
